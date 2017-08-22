@@ -1,1 +1,1 @@
-# Apache Flink Java, Scala examples
+# Apache Flink Java & Scala examples
